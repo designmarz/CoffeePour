@@ -1,0 +1,24 @@
+body {
+    
+}
+
+
+
+#liquidPour {
+    background-color: #3F1E11;
+    width: 40px;
+    height: 30vw;
+}
+
+
+#coffeePot {
+    transform: rotate(0deg);
+    /* Firefox */
+	-moz-transition: all 5s ease-in-out;
+	/* WebKit */
+	-webkit-transition: all 5s ease-in-out;
+	/* Opera */
+	-o-transition: all 5s ease-in-out;
+	/* Standard */
+	transition: all 5s ease-in-out;
+}
