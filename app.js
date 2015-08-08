@@ -3,6 +3,16 @@ $(document).ready(function() {
 var cp = $('#coffeePot');
 console.log(cp);
 
+//  c=document.getElementById("myCanvas");
+//  ctx=c.getContext("2d");
+// ctx.beginPath();
+// ctx.moveTo(20,70);
+// ctx.bezierCurveTo(100,20,150,100,200,20);
+// ctx.stroke();
+
+
+
+
 
 // $('#coffeePot').click(function() {
 //   $( this ).slideUp();
